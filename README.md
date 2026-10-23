@@ -1,6 +1,6 @@
 Setup Screenshots
 1. VS Code with the Project Open
-!VS Code project screenshot
+<img width="1833" height="786" alt="image" src="https://github.com/user-attachments/assets/2c73dcca-fd73-4430-990a-36b9844d1518" />
 
 2. Node.js Version
 !Node.js version screenshot
